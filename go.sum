@@ -1,0 +1,4 @@
+github.com/smok-dev-team/binding v1.0.3/go.mod h1:jlwgX6VmBjWBepauFjXPFyXt2487FAzkDaMHVuNkj+o=
+github.com/smok-dev-team/form v1.0.3/go.mod h1:4jefJ0hTYiwS78/aryKZdxCKquACw/qPeS/kwckmNfM=
+github.com/smok-dev-team/ngx v1.0.4 h1:Ce47DF9pr02lLUsG9H66p1l/85dG7GNv5/laE3aAPpU=
+github.com/smok-dev-team/ngx v1.0.4/go.mod h1:2+l3jm6fTtagIGwrfepNBEdKAjDw9ov9IDq6DR0QuXo=
